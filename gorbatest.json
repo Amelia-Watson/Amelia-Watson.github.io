@@ -1,0 +1,25 @@
+{
+    "routes": [
+        {
+            "route": "22T",
+            "dirs": {
+                "0": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://120281534012321",
+                            "num": "rbxassetid://91581978308874"
+                        }
+                    ]
+                },
+				"1": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://90943200281585",
+                            "num": "rbxassetid://79991662819215" 
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
