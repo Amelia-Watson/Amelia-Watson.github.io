@@ -20,6 +20,35 @@
                     ]
                 }
             }
+        },
+		{
+            "route": "H26",
+            "dirs": {
+                "0": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://121151374924120",
+                            "num": "rbxassetid://78511596069541"
+                        },
+						{
+							"front": "rbxassetid://104434758467408",
+                            "num": "rbxassetid://78511596069541"
+						}
+                    ]
+                },
+				"1": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://121151374924120",
+                            "num": "rbxassetid://78511596069541" 
+                        },
+						{
+							"front": "rbxassetid://118216305951509",
+                            "num": "rbxassetid://78511596069541"
+						}
+                    ]
+                }
+            }
         }
     ]
 }
