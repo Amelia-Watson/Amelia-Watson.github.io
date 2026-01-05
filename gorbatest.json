@@ -1,21 +1,21 @@
 {
     "routes": [
         {
-            "route": "22T",
+            "route": "25A",
             "dirs": {
                 "0": {
                     "pages": [
                         {
-                            "front": "rbxassetid://120281534012321",
-                            "num": "rbxassetid://91581978308874"
+                            "front": "rbxassetid://126617832420233",
+                            "num": "rbxassetid://114984376977350"
                         }
                     ]
                 },
 				"1": {
                     "pages": [
                         {
-                            "front": "rbxassetid://90943200281585",
-                            "num": "rbxassetid://79991662819215" 
+                            "front": "rbxassetid://80725885009368",
+                            "num": "rbxassetid://114984376977350" 
                         }
                     ]
                 }
