@@ -50,5 +50,26 @@
                 }
             }
         }
+		{
+            "route": "107",
+            "dirs": {
+                "0": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://111350211028712",
+                            "num": "rbxassetid://86166640561710"
+                        }
+                    ]
+                },
+				"1": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://",
+                            "num": "rbxassetid://" 
+                        }
+                    ]
+                }
+            }
+        },
     ]
 }
