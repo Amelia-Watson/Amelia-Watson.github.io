@@ -1,5 +1,18 @@
 {
     "routes": [
+		{
+            "route": "",
+            "dirs": {
+                "0": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://0",
+                            "num": "rbxassetid://0"
+                        }
+                    ]
+                }
+            }
+        },
 		        {
             "route": "GB",
             "dirs": {
