@@ -1,0 +1,88 @@
+{
+    "routes": [
+        {
+            "route": "NOVA",
+            "dirs": {
+                "0": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://117919223597921",
+                            "num": "rbxassetid://126805166460419"
+                        }
+                    ]
+                }
+            }
+        },
+      {
+            "route": "63C",
+            "dirs": {
+                "0": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://83319626993956",
+                            "num": "rbxassetid://82934841299109"
+                        }
+                    ]
+                },
+				"1": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://112335607606909",
+                            "num": "rbxassetid://82934841299109" 
+                        }
+                    ]
+                }
+            }
+        },
+{
+            "route": "106",
+            "dirs": {
+                "0": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://134515008068051",
+                            "num": "rbxassetid://79014481502376"
+                        }
+                    ]
+                },
+				"1": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://79348862837163",
+                            "num": "rbxassetid://79014481502376" 
+                        }
+                    ]
+                },
+              				"2": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://76124543945093",
+                            "num": "rbxassetid://79014481502376" 
+                        }
+                    ]
+                }
+            }
+        },
+		{
+            "route": "107",
+            "dirs": {
+                "0": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://124188623418459",
+                            "num": "rbxassetid://80962896621266"
+                        }
+                    ]
+                },
+				"1": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://116939740358556",
+                            "num": "rbxassetid://80962896621266" 
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
