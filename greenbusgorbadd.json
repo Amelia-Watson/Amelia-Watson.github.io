@@ -504,6 +504,90 @@
                 }
             }
         },
+		 {
+            "route": "68A",
+            "dirs": {
+                "0": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://83836286859083",
+                            "num": "rbxassetid://78630921525491"
+                        }
+                    ]
+                },
+				"1": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://79090082815753",
+                            "num": "rbxassetid://78630921525491" 
+                        }
+                    ]
+                }
+            }
+        },
+				 {
+            "route": "68B",
+            "dirs": {
+                "0": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://88430872374663",
+                            "num": "rbxassetid://124453014333034"
+                        }
+                    ]
+                },
+				"1": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://132655181478891",
+                            "num": "rbxassetid://124453014333034" 
+                        }
+                    ]
+                }
+            }
+        },
+				 {
+            "route": "68C",
+            "dirs": {
+                "0": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://136608646553167",
+                            "num": "rbxassetid://84314416599614"
+                        }
+                    ]
+                },
+				"1": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://73533596468218",
+                            "num": "rbxassetid://84314416599614" 
+                        }
+                    ]
+                }
+            }
+        },
+				 {
+            "route": "68X",
+            "dirs": {
+                "0": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://124082245538851",
+                            "num": "rbxassetid://99740818797428"
+                        }
+                    ]
+                },
+				"1": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://99835204959344",
+                            "num": "rbxassetid://99740818797428" 
+                        }
+                    ]
+                }
+            }
+        },
       {
             "route": "353",
             "dirs": {
