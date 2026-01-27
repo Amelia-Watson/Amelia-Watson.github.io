@@ -1,7 +1,20 @@
 {
     "routes": [
-        {
+		        {
             "route": "NOVA",
+            "dirs": {
+                "0": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://77933915276500",
+                            "num": "rbxassetid://126805166460419"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "route": "NAE",
             "dirs": {
                 "0": {
                     "pages": [
