@@ -134,14 +134,16 @@
                 },
                 "2": {
                   "stages": {
-                    "dest": "基督教医院",
-                    "pages": [
-                      {
-                        "frontid": "rbxassetid://108076418919553",
-                        "sideid": "rbxassetid://",
-                        "backid": "rbxassetid://108076418919553"
-                      }
-                    ]
+                    "0": {
+                      "dest": "基督教医院",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://108076418919553",
+                          "sideid": "rbxassetid://",
+                          "backid": "rbxassetid://108076418919553"
+                        }
+                      ]
+                    }
                   }
                 }
               }
