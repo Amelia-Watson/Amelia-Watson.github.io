@@ -38,8 +38,31 @@
                       "pages": [
                         {
                           "frontid": "rbxassetid://98209760108565",
-                          "sideid": "rbxassetid://93516447635472",
+                          "sideid": "rbxassetid://130203363271828",
                           "backid": "rbxassetid://98209760108565"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "route": "TEST",
+          "dirs": {
+            "0": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "试营运",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://136149752938451",
+                          "sideid": "rbxassetid://76725930847983",
+                          "backid": "rbxassetid://136149752938451"
                         }
                       ]
                     }
