@@ -71,6 +71,29 @@
               }
             }
           }
+        },
+                {
+          "route": "SP",
+          "dirs": {
+            "0": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "特别",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://118867263628870",
+                          "sideid": "rbxassetid://104176185959037",
+                          "backid": "rbxassetid://118867263628870"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       ]
     },
