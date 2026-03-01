@@ -47,6 +47,27 @@
                 }
             }
         },
+      {
+            "route": "105",
+            "dirs": {
+                "0": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://81335140747940",
+                            "num": "rbxassetid://76272299555933"
+                        }
+                    ]
+                },
+				"1": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://83847972961822",
+                            "num": "rbxassetid://76272299555933" 
+                        }
+                    ]
+                }
+            }
+        },
 {
             "route": "106",
             "dirs": {
