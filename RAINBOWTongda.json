@@ -1,0 +1,93 @@
+{
+  "companies": [
+    {
+      "name": "特别数据",
+      "routes": [
+        {
+          "route": "RES",
+          "dirs": {
+            "0": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "专车",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://138900027199284",
+                          "sideid": "rbxassetid://124294720862290",
+                          "backid": "rbxassetid://91653561042055"
+                        },
+                                                {
+                          "frontid": "rbxassetid://138900027199284",
+                          "sideid": "rbxassetid://112781874190183",
+                          "backid": "rbxassetid://91653561042055"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "沃巴",
+      "routes": [
+        {
+          "route": "11",
+          "dirs": {
+            "0": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "妈阁",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://70838949097989",
+                          "sideid": "rbxassetid://111757147963869",
+                          "backid": "rbxassetid://140644448865853"
+                        },
+                        {
+                          "frontid": "rbxassetid://70838949097989",
+                          "sideid": "rbxassetid://127649185399392",
+                          "backid": "rbxassetid://140644448865853"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "1": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "氹仔",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://73452391275107",
+                          "sideid": "rbxassetid://139045263548526",
+                          "backid": "rbxassetid://140644448865853"
+                        },
+                        {
+                          "frontid": "rbxassetid://73452391275107",
+                          "sideid": "rbxassetid://81061453879697",
+                          "backid": "rbxassetid://140644448865853"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
