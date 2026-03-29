@@ -88,6 +88,317 @@
           }
         }
       ]
+    },
+        {
+      "name": "绿色巴士",
+      "routes": [
+        {
+          "route": "63",
+          "dirs": {
+            "0": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "荔枝仔",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://129353235753983",
+                          "sideid": "rbxassetid://104472011486547",
+                          "backid": "rbxassetid://82674074908207"
+                        },
+                        {
+                          "frontid": "rbxassetid://129353235753983",
+                          "sideid": "rbxassetid://104472011486547",
+                          "backid": "rbxassetid://82674074908207"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "1": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "中環（會展新翼）",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://116367340454143",
+                          "sideid": "rbxassetid://104472011486547",
+                          "backid": "rbxassetid://82674074908207"
+                        },
+                        {
+                          "frontid": "rbxassetid://99013748118633",
+                          "sideid": "rbxassetid://104472011486547",
+                          "backid": "rbxassetid://82674074908207"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+                {
+          "route": "63A",
+          "dirs": {
+            "0": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "聖瑪利醫院",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://117754913501159",
+                          "sideid": "rbxassetid://80056132006038",
+                          "backid": "rbxassetid://76540500576331"
+                        },
+                        {
+                          "frontid": "rbxassetid://82215971536777",
+                          "sideid": "rbxassetid://80056132006038",
+                          "backid": "rbxassetid://76540500576331"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "1": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "中環（港景路）",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://75658778559403",
+                          "sideid": "rbxassetid://80056132006038",
+                          "backid": "rbxassetid://76540500576331"
+                        },
+                        {
+                          "frontid": "rbxassetid://132658488771563",
+                          "sideid": "rbxassetid://80056132006038",
+                          "backid": "rbxassetid://76540500576331"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+                {
+          "route": "63B",
+          "dirs": {
+            "0": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "凱琳東站",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://88766884143214",
+                          "sideid": "rbxassetid://97533257808484",
+                          "backid": "rbxassetid://84792434846139"
+                        },
+                        {
+                          "frontid": "rbxassetid://94569926261614",
+                          "sideid": "rbxassetid://97533257808484",
+                          "backid": "rbxassetid://84792434846139"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "1": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "中環（會展新翼）",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://75672536368275",
+                          "sideid": "rbxassetid://97533257808484",
+                          "backid": "rbxassetid://84792434846139"
+                        },
+                        {
+                          "frontid": "rbxassetid://93897688619180",
+                          "sideid": "rbxassetid://97533257808484",
+                          "backid": "rbxassetid://84792434846139"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+                {
+          "route": "63C",
+          "dirs": {
+            "0": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "玉明苑",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://91662176256598",
+                          "sideid": "rbxassetid://99143392521051",
+                          "backid": "rbxassetid://84006726763919"
+                        },
+                        {
+                          "frontid": "rbxassetid://91662176256598",
+                          "sideid": "rbxassetid://99143392521051",
+                          "backid": "rbxassetid://84006726763919"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "1": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "機場",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://93054392451073",
+                          "sideid": "rbxassetid://125216873779040",
+                          "backid": "rbxassetid://84006726763919"
+                        },
+                        {
+                          "frontid": "rbxassetid://93054392451073",
+                          "sideid": "rbxassetid://125216873779040",
+                          "backid": "rbxassetid://84006726763919"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+                {
+          "route": "63P",
+          "dirs": {
+            "0": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "大學站",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://140696794452406",
+                          "sideid": "rbxassetid://96282953204027",
+                          "backid": "rbxassetid://96961654724942"
+                        },
+                        {
+                          "frontid": "rbxassetid://140696794452406",
+                          "sideid": "rbxassetid://96282953204027",
+                          "backid": "rbxassetid://96961654724942"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "1": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "科創城二期",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://133363505262329",
+                          "sideid": "rbxassetid://75958560024360",
+                          "backid": "rbxassetid://96961654724942"
+                        },
+                        {
+                          "frontid": "rbxassetid://73766581031948",
+                          "sideid": "rbxassetid://75958560024360",
+                          "backid": "rbxassetid://96961654724942"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+                {
+          "route": "63X",
+          "dirs": {
+            "0": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "北岸",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://91477779805915",
+                          "sideid": "rbxassetid://78440113871074",
+                          "backid": "rbxassetid://133156479045261"
+                        },
+                        {
+                          "frontid": "rbxassetid://91477779805915",
+                          "sideid": "rbxassetid://78440113871074",
+                          "backid": "rbxassetid://133156479045261"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "1": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "中環（西港城）",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://98420784751183",
+                          "sideid": "rbxassetid://119218249809581",
+                          "backid": "rbxassetid://133156479045261"
+                        },
+                        {
+                          "frontid": "rbxassetid://106066636097497",
+                          "sideid": "rbxassetid://119218249809581",
+                          "backid": "rbxassetid://133156479045261"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
     }
   ]
 }
