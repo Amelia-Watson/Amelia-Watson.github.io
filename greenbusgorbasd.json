@@ -39,7 +39,61 @@
                 }
             }
         },
-		
+		        {
+            "route": "40",
+            "dirs": {
+                "0": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://123654934190806",
+                            "num": "rbxassetid://124156554111066"
+                        }
+                    ]
+                },
+				"1": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://88299903054374",
+                            "num": "rbxassetid://124156554111066" 
+                        }
+                    ]
+                }
+            }
+        },
+				        {
+            "route": "40X",
+            "dirs": {
+                "0": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://105806716319375",
+                            "num": "rbxassetid://78107112623821"
+                        }
+                    ]
+                },
+				"1": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://88444416966067",
+                            "num": "rbxassetid://78107112623821" 
+                        }
+                    ]
+                }
+            }
+        },
+						        {
+            "route": "N40",
+            "dirs": {
+                "0": {
+                    "pages": [
+                        {
+                            "front": "rbxassetid://100435043818570",
+                            "num": "rbxassetid://116364555795709"
+                        }
+                    ]
+                }
+            }
+        },
         {
             "route": "53H",
             "dirs": {
