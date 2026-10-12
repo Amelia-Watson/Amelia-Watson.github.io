@@ -195,6 +195,69 @@
               }
             }
           }
+        },        {
+          "route": "60",
+          "dirs": {
+            "0": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "渡船角码头",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://111125330000359",
+                          "sideid": "rbxassetid://75597967494890",
+                          "backid": "rbxassetid://111125330000359"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "1": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "旧城区",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://100412526519676",
+                          "sideid": "rbxassetid://106377230164232",
+                          "backid": "rbxassetid://100412526519676"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+                {
+          "route": "SL1",
+          "dirs": {
+            "0": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "恒域大环游",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://134416793793124",
+                          "sideid": "rbxassetid://0",
+                          "backid": "rbxassetid://0"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       ]
     }
